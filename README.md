@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I like numbers and computers since I was a kid. Because of this I decided to study Telecommunication Engineering in order to work in technology. Thanks to this I could meet awesome people too! I consider myself a straighforward person and I value honesty over everithing else.
+
+I have more than 7 years of experience developing embedded systems oriented to telecommunications. I am used to programming FPGAs (VHDL/Verilog) and low-level software in C, debugging complete systems with the help of laboratory instrumentation, automating tests using scripts in Linux...
+
+In my free time I like to learn about web development. I find it very satisfying to develop attractive products by programming at a higher level.
+
 <!--
 **fjaviermartinezalonso/fjaviermartinezalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
