@@ -8,8 +8,6 @@ In my free time I like to learn about web development. I find it very satisfying
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fjaviermartinezalonso) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fjaviermartinezalonso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!--
 **fjaviermartinezalonso/fjaviermartinezalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
