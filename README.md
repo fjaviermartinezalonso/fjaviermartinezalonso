@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I like numbers and computers since I was a kid. Because of this I decided to study Telecommunication Engineering in order to work in technology. Thanks to this I could meet awesome people too! I consider myself a straighforward person and I value honesty over everithing else.
+From a young age, I have had an innate fascination with numbers and technology, which led me to pursue a degree in Telecommunications Engineering. Throughout my career, I've had the opportunity to work with extraordinary people and to deeply engage in the development of embedded systems focused on telecommunications.
 
-I have more than 7 years of experience developing embedded systems oriented to telecommunications. I am used to programming FPGAs (VHDL/Verilog) and low-level software in C, debugging complete systems with the help of laboratory instrumentation, automating tests using scripts in Linux...
+With over 7 years of experience, I specialize in programming FPGAs (using VHDL/Verilog) and developing low-level software in C. Additionally, I have extensive experience in debugging integrated systems using laboratory instrumentation and in automating tests through Linux scripts.
 
-In my free time I like to learn about web development. I find it very satisfying to develop attractive products by programming at a higher level.
+On a personal level, I define myself as a straightforward and honest individual who values transparency in all aspects of life. I am passionate about continuous learning, and in my free time, I delve into web development, where I enjoy creating visually appealing and functional products, working with high-level technologies.
+
+I am always open to new opportunities and collaborations. Feel free to contact me or explore my work on GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fjaviermartinezalonso) 
 
